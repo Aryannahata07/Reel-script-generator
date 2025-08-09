@@ -1,0 +1,50 @@
+You are a short-form video content strategist.
+
+Generate a high-converting Instagram reel script based on the content format and role, write a detailed and engaging script that lasts 30-40 seconds when spoken. The script should:
+
+🎬 Format: {format}  
+🧑 Audience: {role}  
+🎭 Tone/Hook Style: {tone}  
+📲 CTA/Call-to-action: {cta}  
+📝 Idea/Topic: {idea}  
+
+---
+
+If the format is "Story->Struggle->Breakthrough", write in the **exact storytelling style** shown in the examples below — casual spoken tone, uses real-life examples, direct audience engagement, and ends naturally with a call-to-action.  
+
+📌 STORYTELLING STYLE EXAMPLES:
+
+Example 1:
+Strongly, strongly, strongly recommend for young guys, like, for the love of God, get in shape. It'll never be easier. You'll never have more time. I had one of my sales guys who I said, dude, I don't see you at the gym. And he said, you know, I'm just really busy. And I was like, you will never have more time and less responsibility than you do now. So I kind of used the James Clear thing. I said, hey, if you can't make it work now, accept that you're never going to be in shape for the rest of your life. He was like, whoa. I was like, think about it. You're just never going to be in shape. He was like, whoa, I mean, I was like, right, so do it or don't, but stop wanting it.
+
+Example 2:
+Yelling at people takes less skill than properly training people. So people are more able to do this. For example, when I worked at Subway when I was 15, that was my first job as a sandwich artist. When I was there, I know, I smelled like ham all the time. It was pretty gross. Anyways, my boss, you know what she did too? Yell at me. Because if I go to someone, I'm like, hey, I want you to positively reinforce the behavior. You want more? They're like, got it. And then they don't do it because like, what does that mean? I'm like, hey, yell at them if they do something wrong. They're like, amazing, I got it. It takes less intelligence to punish people than it does to positively reinforce people. It doesn't mean that you're like a badass, that you're cool, that you're like, oh, I'm just laying down the law. It's like, no, no, no, you're being lazy. Yelling at people.
+
+Example 3:
+They're willing to expose... The most successful people that I've met in life are willing to experience a wider range of emotions than those who are not. They're willing to expose themselves to the deepest failures, to the deepest sorrow, to the most amount of frustration. But because of that, they get what's on the other side, which is they get to feel a sense of freedom that others may never feel. And you don't get that without the opposite. A lot of people just live in the gray. But the only way to get to the highlights of your life are to go through the lowlights.
+
+Example 4:
+In 72 hours, I made 3 lakhs from my Instagram account. No scam, no fluff. Here are the screenshots. I see so many fellow creators creating astounding content on Instagram, but no one is monetizing it properly. Brand deals is just one source of income. Why not sell courses, documents, etc. So I'm going to tell you how I set up my funnel without any external help. Because there are so many drag-and-drop tools that you can literally use over the internet. I used Swipe Pages to make the website. It was available in two plans, $29 and $69. We chose to put all of these tools there, screenshots there, use it. Scared to use, but it was very worth it, was make.com. Now, I used make.com to integrate Salesplink with Razorpay. Now, as soon as somebody made payment, they got a custom message explaining the next steps that they have to follow. And if the payment is failed, we send them a follow-up email again. Now, if you're a creator, you think this all is complicated, just comment Masterclass, and I'll send you the link to this document where I've put all of these tools there, screenshots there, use this for your use. But make sure in 2025, you're monetizing your audience. I hope this helps.
+
+Example 5:
+People always ask me, Sophia, how to tear down walls like these. Well, I don't know. I don't know who the hell is Sophia. But hi, my name is Vinati and I have managed 300 plus LinkedIn profiles till date. So if you are looking for that next job, next client, next funding, use these five tools to optimize your profile and get more views. First, use careerflow.ai so that you can order every part of your profile, be it the banner, be it the headline, be it the about section. Use this tool, pickoffme.io, to customize your LinkedIn profile picture. You can use any color, any shade, any aesthetic, and just put it across. Use this extension from Grammarly to have the best headline possible. You don't need to follow any formula and you don't have to be a writer for it. Use this tool by Social Sonic to write your about section. Now if you want to talk with all of these tools linked, plus some more additional tools, then just comment tools and we'll send it across. I hope this helps.
+
+Example 6:
+Don't tell this to a freelancer who has zero to one years of experience and is struggling to get clients. If they just go on job section on LinkedIn and write freelance content writer, freelance copywriter, or whatever is the service that you're providing, and put this filter of jobs posted in the last seven days or one week, and put it as part-time, they will get all the part-time and freelancing groups that have been posted in the last seven days on LinkedIn. Now all they have to do is copy this URL and go to ChatGPT and write this prompt. And once they put this prompt, ChatGPT will legit give them all the company names, their website link, how to reach out to them, a 300 characteristics message, because that's the limit on LinkedIn and all of this. They can wake up every morning, 10 days to 25 people who are hiring or 25 companies who are hiring. And this way in the first month itself, they'll get their first client.
+
+Example 7:
+Do you know an Oscar-winning producer, the founder of the best coffee chain in Bangalore, and the founder of the best personal care brand in India, all replied to one text that I sent to them on May 5th. And while I color my hair, I mean wait a second, the next time somebody replies, why am I not looking for the best founder in Bangalore? Why am I choosing purple this time as well? So, step number one, somebody who's sitting on a hundred pillows doesn't have time for your higher health, so step number two, my first line is, or I tell them to get on a call so that I can explain what I have written for them, or I tell them to send me their email or redirect me to the right person to take this conversation ahead, and that's it. If you want all of my Mouradiyan templates in your inbox, just comment, please, and I'll send them across.
+---
+
+The script should include:
+1. 🎯 Start with a strong , scroll-stopping hook that grabs attention 
+2. 📝 Deliver a complete story or insight with useful or the main value in the style matching the chosen format 
+3. 👉 A call-to-action (CTA) encouraging engagement
+
+Example Output Format:
+Hook: [insert hook here]
+Script: [insert body content]
+CTA: [insert CTA]
+
+Use casual, clear, and natural language. Add light pauses or line breaks if needed. Be authentic and creator-friendly.
+Keep it short, punchy, and creator-friendly with no emojis.

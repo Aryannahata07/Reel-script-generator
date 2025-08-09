@@ -1,0 +1,157 @@
+{
+    "Business Owner": {
+        "Storytelling Reel": [
+      "From zero reach to fully booked in 90 days — here's exactly what changed.",
+      "I launched my offer with zero leads. This is how I made my first ₹50K.",
+      "This boring system saved my business (and my sanity).",
+      "The 3 dumbest mistakes I made when I started my business — learn from them."
+    ],
+        "Educational Reel": [
+      "The boring strategy that got me 3 clients in 1 week.",
+      "Here’s exactly how I plan a month of content in under 2 hours.",
+      "What nobody tells you about building a brand from scratch.",
+      "Don’t waste ₹20K on ads until you do this.",
+      "The 3 things your website is probably doing wrong.",
+      "If you sell a product online, you NEED to know this.",
+      "Steal my system to convert lurkers into buyers.",
+      "This is the single most underrated skill for entrepreneurs."
+    ],
+    "Relatable Reel": [
+      "Stop scrolling if you’re serious about [achievement].",
+      "What no one tells you about becoming a [position].",
+      "Am I the only one who didn’t know [X]?",
+      "Can anyone else relate to [scenario], please tell me it's not just me?"
+    ]
+    },
+    "Service Provider": {
+        "Storytelling Reel": [
+      "I used to undercharge like crazy. Then this happened.",
+      "How I went from 2 clients to a waitlist in 60 days.",
+      "No one tells you how hard it is until you’re in it. Here's my story.",
+      "If you’re a freelancer tired of chasing clients, listen to this."
+    ],
+         "Educational Reel": [
+      "This 1 mindset shift helped me go from inconsistent income to ₹1L months.",
+      "If your clients aren’t getting results, try this.",
+      "3 reasons you’re stuck at the same income level.",
+      "If you hate selling, this reframe will change your game.",
+      "Stop offering everything. Do this instead.",
+      "Want clients to value your work more? Here’s what to fix.",
+      "This is why your DMs are quiet — and how to change it.",
+      "The 5 client-attracting content types I use on repeat."
+    ],
+    "Relatable Reel": [
+      "Calling all [ideal clients] who want to [your service]—we should be friends.",
+      "Just a quick public service announcement…",
+      "One of our [X] cost [Y], the other [X]—can you spot the difference?"
+    ]
+    },
+    "Influencer / Creator": {
+         "Storytelling Reel": [
+      "How one reel changed everything for me.",
+      "I thought content creation was fun until burnout hit.",
+      "I used to create for free. Now brands chase me."
+    ],
+        "Educational Reel": [
+      "Want to grow without dancing or trending audio? Do this.",
+      "The #1 hook that made my reel hit 100K views.",
+      "Stop posting like this. Try this instead (yes, it works in 2025).",
+      "This 15-second change in my video style doubled engagement.",
+      "If your growth is stuck, this might be why.",
+      "3 mistakes keeping your content from going viral.",
+      "Here’s how I plan a full month of content without burnout.",
+      "The secret to working with brands when you have less than 5K followers."
+    ],
+    "Relatable Reel": [
+      "You won’t believe what goes on behind the scenes of [popular account].",
+      "I will never recover from learning this.",
+      "Stop scrolling! If you love [topic], this is for YOU!"
+    ]
+    },
+    "Startup Founder / SaaS": {
+        "Storytelling Reel": [
+      "How we launched with zero users and hit 10K in 3 months.",
+      "What I learned bootstrapping my startup with no funding.",
+      "Our MVP flopped. But this pivot changed everything.",
+      "I quit my job to build this — and here’s what really happened."
+    ],
+        "Educational Reel": [
+      "Here’s why your landing page isn’t converting.",
+      "3 metrics that matter more than your follower count.",
+      "Don’t build a product until you do this market validation step.",
+      "We increased our demo sign-ups by 300% with this one change.",
+      "Bootstrapped? These free tools saved our team ₹50K+.",
+      "Our CAC dropped in half after implementing this funnel tweak.",
+      "You don’t need 10 features. You need this one that solves a real problem.",
+      "Here’s the exact cold email we used to land 20 beta testers."
+    ],
+    "Relatable Reel": [
+      "Here’s what nobody tells you about building [your product/business].",
+      "If you’re [X] and you haven’t tried [Y] yet—watch this."
+    ]
+    },
+    "Educator / Thought Leader": {
+        "Storytelling": [
+            "Hook: My first workshop had 3 people. I cried after.\n Script: I thought it was a failure. But one attendee became a client, the other referred three. Never underestimate a small room.\n CTA: Educators, stick with it. Follow for more behind-the-scenes.",
+            "Hook: Imposter syndrome almost made me quit teaching.\n Script: I thought I needed more credentials. Turns out I needed more reps. Practice builds confidence.\n CTA: Teaching? You're enough. Follow for more truths."
+        ],
+        "Educational Reel": [
+      "Most people misunderstand this concept — let me break it down.",
+      "Here’s the real reason why your [insert topic] isn’t working.",
+      "This one belief is holding you back from [desired transformation].",
+      "Teaching is more than sharing tips — here’s what actually works.",
+      "Simplifying [topic] in under 60 seconds.",
+      "What your favorite guru forgot to mention.",
+      "If you’re trying to be an expert, this mindset shift is non-negotiable.",
+      "Here’s how to teach without sounding like everyone else."
+    ],
+     "Relatable Reel": [
+      "Does anyone else feel like [common experience]?",
+      "What are some weird things people don’t know about [topic]?"
+    ]
+    },
+    "Health / Wellness Expert": {
+        "Storytelling Reel": [
+      "I healed from burnout naturally. This is how.",
+      "Before I became a fertility coach, I struggled for years. My story might help you.",
+      "No one talks about how lonely healing can feel.",
+      "I used to give toxic advice — until I learned this."
+    ],
+        "Educational Reel": [
+      "The 3 biggest mistakes you’re making with [insert issue]",
+      "You’ve been told to do this. I’m here to bust that myth.",
+      "I’m a [nutritionist/doctor/coach], here’s what I’d never do.",
+      "Here’s why your symptoms keep coming back.",
+      "The problem isn’t your diet — it’s this.",
+      "This 2-minute habit changed my gut health.",
+      "If your period is irregular, listen to this.",
+      "Healing isn’t linear. But these 5 steps make it easier."
+    ],
+    "Relatable Reel": [
+      "I used to feel so [emotion] until I…",
+      "Tired of [pain point]? Try this."
+    ]
+    },
+    "Lifestyle / Self-Improvement": {
+        "Storytelling Reel": [
+      "My first workshop had 3 people. I cried after. Here’s what I didn’t expect.",
+      "I failed publicly. Here’s what it taught me about building credibility.",
+      "Imposter syndrome almost made me quit teaching.",
+      "If you think you’re not ready to teach — listen to this."
+    ],
+        "Educational Reel": [
+      "This daily habit 10x’d my focus.",
+      "Your attention span isn’t broken — your inputs are.",
+      "3 things that made me more confident than ever.",
+      "Here’s how I rewired my brain in 30 days.",
+      "If your mornings feel chaotic, try this routine.",
+      "Want to feel less anxious? Try these 2 simple mindset shifts.",
+      "Here’s what journaling really taught me.",
+      "You don’t need more motivation. You need this."
+    ],"Relatable Reel": [
+      "I don’t think people understand how [X].",
+      "Everybody’s looking for [fundamental desire].",
+      "If you’re [X] you should probably check out [Y]."
+    ]
+    }
+}
